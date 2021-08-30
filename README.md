@@ -1,7 +1,7 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki.  -->
 
-# Project Title
+# Mushroom identifier
 
 Final project for the Building AI course - Mushroom identifier
 
