@@ -9,7 +9,7 @@ Final project for the Building AI course - Mushroom identifier
 
 Idea is to build a mobile app to identify mushrooms when walking in the forrest. Google Lens is similar application but not precise enough. 
 When develping this would people interested collected mushrooms to easily detect new species and share the knolwdge for others. 
-
+Building AI course project.
 
 ## Background
 
