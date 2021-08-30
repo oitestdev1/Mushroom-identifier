@@ -32,4 +32,4 @@ Need to find algorithm as a base.
 Need top build a mobile app with AI algotihm in it
 
 ## Acknowledgments
-My self and my son.
+Myself and my son.
